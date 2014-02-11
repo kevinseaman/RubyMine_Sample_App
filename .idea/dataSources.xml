@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2289565331">
+    <data-source source="LOCAL" name="Rails RubyMine_Sample_App: development" uuid="32575634-e70c-4837-9424-e93eb3bda5f3">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:RubyMine_Sample_App_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfe3dfc7dfcbdfcddfcfdfe4dfc5dfdddf8b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RubyMine_Sample_App: test" uuid="7b5f1b1d-9cbd-4056-b772-0eb18bd4481e">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:RubyMine_Sample_App_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfe3dfc7dfcbdfcddfcfdfe4dfc5dfdddf8b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RubyMine_Sample_App: production" uuid="2e80ca95-ed6c-439c-be23-f0561ed09dd9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:RubyMine_Sample_App_production</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfe3dfc7dfcbdfcddfcfdfe4dfc5dfdddf8b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
